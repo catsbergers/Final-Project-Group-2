@@ -1,5 +1,5 @@
 # Analyzing xView Dataset:
-# Group Project Proposal
+# Group Project Code
 # Machine Learning II DATS 6203 - 11
 # Group 2: Jiarong Che, Jiajun Wu, Diana Holcomb
 
